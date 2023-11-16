@@ -1,0 +1,31 @@
+body{
+    background: yellowgreen;
+}
+.score
+{
+    font-size: 22px;
+    float:left;
+    margin-left: 15px;
+    margin-bottom: 1111px;
+}
+.timer
+{
+    font-size: 22px;
+    float:right;
+    margin-right: 15px;
+    margin-bottom:2111px;
+}
+.skt_to_draw{
+    color: #d10816;
+    font-size: 22px;
+}
+.heading{
+    padding-bottom: 11.2px;
+    border-bottom:solid;
+}
+#your_sket{
+    font-size:22px;
+}
+#confidence{
+    font-size:22px;
+}
